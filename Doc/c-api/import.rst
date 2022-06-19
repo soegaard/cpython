@@ -43,6 +43,8 @@ Importing Modules
 
    .. index:: builtin: __import__
 
+   Function-like macro.   
+
    Import a module.  This is best described by referring to the built-in Python
    function :func:`__import__`.
 
