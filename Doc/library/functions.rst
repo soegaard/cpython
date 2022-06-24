@@ -141,7 +141,7 @@ are always available.  They are listed here in alphabetical order.
 
 .. class:: bool([x])
 
-   Return a Boolean value, i.e. one of ``True`` or ``False``.  *x* is converted
+   Return a Boolean value, i.e. one of ``True`` or ``False``. The value *x* is converted
    using the standard :ref:`truth testing procedure <truth>`.  If *x* is false
    or omitted, this returns ``False``; otherwise, it returns ``True``.  The
    :class:`bool` class is a subclass of :class:`int` (see :ref:`typesnumeric`).
